@@ -3,7 +3,7 @@
 
 Skills: C++ / Java / Python / DBMS / JS / HTML / CSS
 
-- 🔭 I’m currently working on improving DSA. 
+- 🔭 I’m currently working on creating an Album Finder using Spotify API. 
 - 🌱 I’m currently learning
   - Gen AI
   - DSA
