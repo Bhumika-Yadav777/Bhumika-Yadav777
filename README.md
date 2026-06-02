@@ -1,27 +1,28 @@
-**Hello, I'm Bhumika..**
+### Hi there 👋, I'm Bhumika!
+#### I am a 3rd year Btech Cse student @ Vellore Institute of Technology
 
-🎓 3rd Year B.Tech CSE Student @ Vellore Institute of Technology
+Skills: C++ / Java / Python / DBMS / JS / HTML / CSS
 
-🚀 Currently Working On:
-  - 
+- 🔭 I’m currently working on improving DSA. 
+- 🌱 I’m currently learning
+  - Gen AI
+  - DSA
+  - Web Development
+- My Hobbies
+  - Reading Books
+  - Watching movies
+  - Crocheting
+  - Badminton
+  - Chess 
 
-📚 **Learning**:
 
-* Python & Machine Learning
-* Generative AI (LLMs & Prompting)
-* DSA with C++
-* Project management and Team work
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bhumika-Yadav777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bhumika Yadav/)  
 
-🛠️ **Tech Stack**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-Yadav777)](https://github.com/anuraghazra/github-readme-stats)
 
-🎮**Hobbies**
-Crocheting | Badminton | Watching Movies | Exploring Tech
-  
-📊 **GitHub Stats**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhumika-Yadav777&show_icons=true)  
 
-🔹 Connect With Me
-  
+![GitHub metrics](https://metrics.lecoq.io/Bhumika-Yadav777)  
 
-⭐ Keep learning, building & experimenting with code!
- 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Bhumika-Yadav777)  
 
