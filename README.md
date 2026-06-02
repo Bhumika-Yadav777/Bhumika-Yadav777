@@ -1,16 +1,27 @@
-## Hi there 👋
+Hello, I'm Bhumika..
 
-<!--
-**Bhumika-Yadav777/Bhumika-Yadav777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student @ Vellore Institute of Technology
 
-Here are some ideas to get you started:
+🚀 Currently Working On:
+  - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Learning
+
+Python & Machine Learning
+Generative AI (LLMs & Prompting)
+DSA with C++
+Project management and Team work
+
+🛠️ Tech Stack
+
+🎮 Hobbies
+Crocheting | Badminton | Watching Movies | Exploring Tech
+  
+📊 GitHub Stats
+
+🔹 Connect With Me
+  
+
+⭐ Keep learning, building & experimenting with code!
+ 
+
