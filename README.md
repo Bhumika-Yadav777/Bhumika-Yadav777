@@ -1,23 +1,23 @@
-Hello, I'm Bhumika..
+**Hello, I'm Bhumika..**
 
 🎓 3rd Year B.Tech CSE Student @ Vellore Institute of Technology
 
 🚀 Currently Working On:
   - 
 
-📚 Learning
+📚 **Learning**:
 
-Python & Machine Learning
-Generative AI (LLMs & Prompting)
-DSA with C++
-Project management and Team work
+* Python & Machine Learning
+* Generative AI (LLMs & Prompting)
+* DSA with C++
+* Project management and Team work
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
-🎮 Hobbies
+🎮**Hobbies**
 Crocheting | Badminton | Watching Movies | Exploring Tech
   
-📊 GitHub Stats
+📊 **GitHub Stats**
 
 🔹 Connect With Me
   
