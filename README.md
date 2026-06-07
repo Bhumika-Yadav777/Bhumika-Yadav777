@@ -3,11 +3,16 @@
 
 Skills: C++ / Java / Python / DBMS / JS / HTML / CSS
 
-- 🔭 I’m currently working on creating an Album Finder using Spotify API. 
+- 🔭 I’m currently working on
+  -
+
+
 - 🌱 I’m currently learning
   - Gen AI
   - DSA
   - Web Development
+ 
+    
 - My Hobbies
   - Reading Books
   - Watching movies
@@ -16,7 +21,8 @@ Skills: C++ / Java / Python / DBMS / JS / HTML / CSS
   - Chess 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bhumika-Yadav777)            
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bhumika-Yadav777)   
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhumika-yadav777/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-Yadav777)](https://github.com/anuraghazra/github-readme-stats)
