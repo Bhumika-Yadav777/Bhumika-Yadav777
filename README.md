@@ -1,19 +1,19 @@
 ### Hi there 👋, I'm Bhumika!
 #### I am a 3rd year Btech Cse student @ Vellore Institute of Technology
 
-Skills: C++ / Java / Python / DBMS / JS / HTML / CSS
+# Skills: C++ / Java / Python / DBMS / JS / HTML / CSS
 
-- 🔭 I’m currently working on
+# - 🔭  I’m currently working on
   -
 
 
-- 🌱 I’m currently learning
+# - 🌱 I’m currently learning
   - Gen AI
   - DSA
   - Web Development
  
     
-- My Hobbies
+# - My Hobbies
   - Reading Books
   - Watching movies
   - Crocheting
