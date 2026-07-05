@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Bhumika!
 #### I am a 3rd year Btech Cse student @ Vellore Institute of Technology
 
- <div align="center">🚀 Welcome to My GitHub</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Harsh+Patial;Data+Science+%26+ML+Enthusiast;Building+Practical+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Bhumika+Yadav;" />
 </div>
 
 <div align="center">
