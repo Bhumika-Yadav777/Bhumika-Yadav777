@@ -19,7 +19,7 @@
   - Data Structures & Algorithms
   - Full Stack Web Development
 - 🚀 Looking to contribute to Open Source Projects
-- 📫 Reach me on **LinkedIn**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/bhumika-yadav777/)**
 
 ---
 
