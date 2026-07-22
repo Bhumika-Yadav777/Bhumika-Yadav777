@@ -34,7 +34,7 @@
 ### Frameworks & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,mongodb,aws" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,bootstrap,git,github,vscode,mongodb,aws" />
 </p>
 
 ---
