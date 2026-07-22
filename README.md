@@ -1,46 +1,108 @@
-### Hi there 👋, I'm Bhumika!
-#### I am a 3rd year Btech Cse student @ Vellore Institute of Technology
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Bhumika+Yadav;" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+# Hi 👋, I'm Bhumika Yadav
+
+### 💻 3rd Year B.Tech CSE Student | Vellore Institute of Technology
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Full+Stack+Developer;Learning+Generative+AI" />
+
 </div>
 
 ---
 
-# Skills: C++ / Java / Python / DBMS / JS / HTML / CSS
+## 👩‍💻 About Me
 
-# - 🔭  I’m currently working on
-  -
+- 🎓 3rd Year **B.Tech Computer Science Engineering** student at **VIT**
+- 💡 Passionate about solving real-world problems through technology
+- 🌱 Currently learning
+  - Generative AI
+  - Data Structures & Algorithms
+  - Full Stack Web Development
+- 🚀 Looking to contribute to Open Source Projects
+- 📫 Reach me on **LinkedIn**
 
+---
 
-# - 🌱 I’m currently learning
-  - Gen AI
-  - DSA
-  - Web Development
- 
-    
-# - My Hobbies
-  - Reading Books
-  - Watching movies
-  - Crocheting
-  - Badminton
-  - Chess 
+## 🚀 Tech Stack
 
+### Languages
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bhumika-Yadav777)   
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,mysql" />
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bhumika-yadav777/)  
+### Frameworks & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-Yadav777)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,mongodb,aws" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhumika-Yadav777&show_icons=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Bhumika-Yadav777)  
+## 📊 GitHub Statistics
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Bhumika-Yadav777)  
+<div align="center">
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bhumika-Yadav777&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-Yadav777&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Bhumika-Yadav777&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Generative AI
+- ⚡ Advanced DSA
+- 🌐 MERN Stack Development
+- ☁️ Cloud Computing (AWS)
+
+---
+
+## 🎯 Current Focus
+
+- Solving DSA problems consistently
+- Building Full Stack Projects
+- Learning Cloud Technologies
+- Contributing to Open Source
+
+---
+
+## 🎨 Hobbies
+
+- 📚 Reading Books
+- 🎬 Watching Movies
+- 🧶 Crocheting
+- 🏸 Badminton
+- ♟️ Chess
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Bhumika-Yadav777">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/bhumika-yadav777/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+![](https://komarev.com/ghpvc/?username=Bhumika-Yadav777&style=for-the-badge&color=blue)
+
+</div>
