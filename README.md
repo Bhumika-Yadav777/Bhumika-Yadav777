@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Bhumika Yadav
 
-### 💻 3rd Year B.Tech CSE Student | Vellore Institute of Technology
+###  3rd Year B.Tech CSE Student | Vellore Institute of Technology
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Full+Stack+Developer;Learning+Generative+AI" />
 
@@ -10,20 +10,20 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 3rd Year **B.Tech Computer Science Engineering** student at **VIT**
-- 💡 Passionate about solving real-world problems through technology
-- 🌱 Currently learning
+-  3rd Year **B.Tech Computer Science Engineering** student at **VIT**
+-  Passionate about solving real-world problems through technology
+-  Currently learning
   - Generative AI
   - Data Structures & Algorithms
   - Full Stack Web Development
-- 🚀 Looking to contribute to Open Source Projects
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/bhumika-yadav777/)**
+-  Looking to contribute to Open Source Projects
+-  Reach me on **[LinkedIn](https://www.linkedin.com/in/bhumika-yadav777/)**
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -57,16 +57,15 @@
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
-- 🤖 Generative AI
-- ⚡ Advanced DSA
-- 🌐 MERN Stack Development
-- ☁️ Cloud Computing (AWS)
+-  Generative AI
+-  Advanced DSA
+-  MERN Stack Development
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Solving DSA problems consistently
 - Building Full Stack Projects
@@ -75,17 +74,17 @@
 
 ---
 
-## 🎨 Hobbies
+##  Hobbies
 
-- 📚 Reading Books
-- 🎬 Watching Movies
-- 🧶 Crocheting
-- 🏸 Badminton
-- ♟️ Chess
+-  Reading Books
+-  Watching Movies
+-  Crocheting
+-  Badminton
+-  Chess
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://github.com/Bhumika-Yadav777">
@@ -101,7 +100,7 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 ![](https://komarev.com/ghpvc/?username=Bhumika-Yadav777&style=for-the-badge&color=blue)
 
