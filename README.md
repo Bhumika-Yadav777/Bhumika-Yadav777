@@ -14,10 +14,10 @@
 
 -  3rd Year **B.Tech Computer Science Engineering** student at **VIT**
 -  Passionate about solving real-world problems through technology
--  Currently learning
-  - Generative AI
-  - Data Structures & Algorithms
-  - Full Stack Web Development
+-  Currently learning:
+    - Generative AI
+    - Data Structures & Algorithms
+    - Full Stack Web Development
 -  Looking to contribute to Open Source Projects
 -  Reach me on **[LinkedIn](https://www.linkedin.com/in/bhumika-yadav777/)**
 
